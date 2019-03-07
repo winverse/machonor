@@ -1,0 +1,1 @@
+export { default as JudgeWrapper } from './JudgeWrapper';

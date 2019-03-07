@@ -1,0 +1,1 @@
+{"version":3,"file":"needsAuth.js","sourceRoot":"","sources":["../../../src/lib/middlewares/needsAuth.ts"],"names":[],"mappings":";;AAGA,sCAAsC;AACtC,kBAAe,CAAC,GAAY,EAAE,IAAwB,EAAE,EAAE;IACxD,IAAI,CAAC,GAAG,CAAC,KAAK,CAAC,IAAI,EAAE;QACnB,GAAG,CAAC,MAAM,GAAG,GAAG,CAAC;QACjB,OAAO;KACR;IACD,OAAO,IAAI,EAAE,CAAC;AAChB,CAAC,CAAC"}
