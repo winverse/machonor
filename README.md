@@ -2,7 +2,7 @@
 
 > it's a platform where money buys justice.
 
-[http://machonor.co.kr](49.247.192.16)
+[http://machonor.co.kr](http://49.247.192.16)
 
 ## Project Stack
 
