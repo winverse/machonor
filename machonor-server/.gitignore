@@ -2,3 +2,6 @@
 node_modules
 
 build
+
+# ssr
+src/ssr/render.js
