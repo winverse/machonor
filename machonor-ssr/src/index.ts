@@ -1,8 +1,8 @@
-import dotenv = require('dotenv');
+import dotenv = require("dotenv");
 
 dotenv.config();
 
-import Server from 'server';
+import Server from "server";
 const server: Server = new Server();
 
 server.listen(5000);
